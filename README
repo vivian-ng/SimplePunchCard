@@ -1,0 +1,7 @@
+This is a simple punch card app for Android.
+
+It allows you to log the time when you check into a place, when you check out,
+or the number of hours and minute spent there.
+
+The record file (CSV format) can then be viewed, deleted, or emailed as an
+attachment.
