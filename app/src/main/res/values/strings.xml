@@ -3,7 +3,7 @@
     <string name="version_text">version 0.1</string>
     <string name="file_not_exist">File does not exist!</string>
     <string name="data_folder">data</string>
-    <string name="default_recipient">vntsjp@yahoo.co.jp</string>
+    <string name="default_recipient">email@server.com</string>
     <string name="email_subject">Punch card record</string>
     <string name="email_text">Attached is punch card record.</string>
     <string name="chooser_msg">Send file using...</string>
